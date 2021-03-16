@@ -24,10 +24,10 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Signing up and pull to refresh:
-!(alt text)["https://github.com/nicholas-palermo/Parstagram/blob/8e281373ce2efe34e20bf144774252507a261294/Parstagram_Signup_PullToRefresh.gif"]
+!(alt text)[https://github.com/nicholas-palermo/Parstagram/blob/8e281373ce2efe34e20bf144774252507a261294/Parstagram_Signup_PullToRefresh.gif]
 
 Logging in and infinite scroll (>20 posts)
-!(alt text)["https://github.com/nicholas-palermo/Parstagram/blob/8e281373ce2efe34e20bf144774252507a261294/Parstagram_SignIn_InfiniteScroll20+Photos.gif"]
+!(alt text)[https://github.com/nicholas-palermo/Parstagram/blob/8e281373ce2efe34e20bf144774252507a261294/Parstagram_SignIn_InfiniteScroll20+Photos.gif]
 
 Posting a photo:
-!(alt text)["https://github.com/nicholas-palermo/Parstagram/blob/8e281373ce2efe34e20bf144774252507a261294/Parstagram_PostAPhoto.gif"]
+!(alt text)[https://github.com/nicholas-palermo/Parstagram/blob/8e281373ce2efe34e20bf144774252507a261294/Parstagram_PostAPhoto.gif]
